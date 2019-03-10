@@ -2,4 +2,4 @@ name: Johannes Zaia, PhD Candidate
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-minimal
+theme: jekyll
